@@ -1,0 +1,1 @@
+# HTML temple for krisiapp
